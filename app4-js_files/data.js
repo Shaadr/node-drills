@@ -1,3 +1,4 @@
+var data =
 [
 {"name":"Elizabeth","start":1565,"end":1603,"index":0},
 {"name":"James I","start":1603,"end":1625,"index":1},
@@ -12,3 +13,5 @@
 {"name":"George III","start":1760,"end":1820,"index":10},
 {"name":"George IV","start":1820,"end":1820,"index":11}
 ]
+
+ module.exports = data

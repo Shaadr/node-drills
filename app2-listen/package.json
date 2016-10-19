@@ -1,0 +1,15 @@
+{
+  "name": "app2-listen",
+  "version": "1.0.0",
+  "description": "setting up express server listening on any port",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
